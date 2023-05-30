@@ -1,0 +1,100 @@
+0 Champagne Paris
+1 Ibuprofen London
+2 Merlot New York
+3 Tylenol Tokyo
+4 Chardonnay Sydney
+5 Aspirin Rome
+6 Pinot Noir Barcelona
+7 Xanax Berlin
+8 Cabernet Sauvignon Amsterdam
+9 Prozac Madrid
+10 Vodka Moscow
+11 Penicillin Dublin
+12 Whiskey Edinburgh
+13 Adderall Paris
+14 Tequila Cancun
+15 Morphine Milan
+16 Gin London
+17 Vicodin New York
+18 Sake Tokyo
+19 Zoloft Sydney
+20 Rum Havana
+21 OxyContin Rome
+22 Bourbon Louisville
+23 Ritalin Barcelona
+24 Cognac Paris
+25 Ativan Amsterdam
+26 Scotch Whisky Glasgow
+27 Valium Berlin
+28 Absinthe Prague
+29 Codeine Toronto
+30 Tequila Jalisco
+31 Tramadol Melbourne
+32 Sambuca Naples
+33 Percocet Miami
+34 Cabernet Franc Bordeaux
+35 Omeprazole London
+36 Prosecco Venice
+37 Viagra Paris
+38 Prozac Los Angeles
+39 Red Wine Barcelona
+40 Rum Puerto Rico
+41 Ambien New York
+42 Champagne Reims
+43 Xanax Munich
+44 Merlot Napa Valley
+45 Valium Amsterdam
+46 Zoloft Madrid
+47 Gin and Tonic London
+48 Tylenol Los Angeles
+49 Pinot Grigio Florence
+50 Bourbon Kentucky
+51 Adderall Sydney
+52 Sake Kyoto
+53 Whiskey Dublin
+54 Percocet Chicago
+55 Vodka St. Petersburg
+56 Ativan Vienna
+57 Red Wine Tuscany
+58 Tequila Mexico City
+59 Ritalin Barcelona
+60 Absinthe Paris
+61 Prozac Zurich
+62 Cabernet Sauvignon California
+63 Xanax New York
+64 Chardonnay Sonoma
+65 Morphine Rome
+66 Tramadol Berlin
+67 OxyContin Amsterdam
+68 Rum Havana
+69 Viagra Paris
+70 Scotch Whisky Glasgow
+71 Prosecco Venice
+72 Ibuprofen London
+73 Merlot Bordeaux
+74 Valium Barcelona
+75 Zoloft Sydney
+76 Pinot Noir Burgundy
+77 Codeine Toronto
+78 Red Wine Napa Valley
+79 Tequila Jalisco
+80 Bourbon Kentucky
+81 Percocet Miami
+82 Gin and Tonic London
+83 Omeprazole Los Angeles
+84 Vodka Moscow
+85 Ativan Berlin
+86 Prozac Paris
+87 Tylenol New York
+88 Champagne Reims
+89 Xanax Munich
+90 Sake Tokyo
+91 Adderall Sydney
+92 Whiskey Dublin
+93 Ritalin Barcelona
+94 Absinthe Prague
+95 Valium Amsterdam
+96 Cabernet Sauvignon Bordeaux
+97 Prosecco Venice
+98 Rum Havana
+99 Viagra Paris
